@@ -1,0 +1,8 @@
+syntax = "proto2";
+
+message Command {
+  required int32 type = 1;
+  optional int32 id = 2;
+  optional int32 header = 3;
+  repeated int32 debug_info = 4;
+}

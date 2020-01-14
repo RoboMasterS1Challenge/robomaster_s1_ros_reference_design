@@ -2,6 +2,7 @@
 #include <string.h>
 #include <limits.h> // CHAR_BIT
 #include <stdint.h>
+#include <stdlib.h>
 
 #include "robomaster_s1.h"
 #include "robomaster_s1_crc.h"

@@ -66,6 +66,8 @@ void Error_Handler(void);
 #define SW_USER2_GPIO_Port GPIOE
 #define SPI1_INT_Pin GPIO_PIN_1
 #define SPI1_INT_GPIO_Port GPIOA
+#define SPI1_NSS_Pin GPIO_PIN_4
+#define SPI1_NSS_GPIO_Port GPIOA
 #define BUZZER_SIG_Pin GPIO_PIN_14
 #define BUZZER_SIG_GPIO_Port GPIOF
 #define BUT_USER2_Pin GPIO_PIN_3
