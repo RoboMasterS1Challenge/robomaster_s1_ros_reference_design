@@ -1,0 +1,3 @@
+[submodule "software/opencr_firmware/RoboMaster_S1_Reference_Design/nanopb"]
+	path = software/opencr_firmware/RoboMaster_S1_Reference_Design/nanopb
+	url = https://github.com/nanopb/nanopb.git
